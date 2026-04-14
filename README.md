@@ -99,4 +99,4 @@ Initial concept
 
 ## Author
 
-Rivo Henfri
+Rivo Henfri Wowiling
