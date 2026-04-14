@@ -95,7 +95,7 @@ REKA is a chatbot concept for resort and hospitality environments. It helps gues
 
 ## Project Status
 
-Initial concept and development phase.
+Initial concept
 
 ## Author
 
