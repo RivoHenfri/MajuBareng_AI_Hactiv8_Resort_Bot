@@ -2,8 +2,6 @@
 
 REKA is a chatbot concept for resort and hospitality environments. It helps guests get fast, simple, and reliable access to resort information and service requests without waiting for front desk support.
 
-This project was created by Rivo Henfri as a final project for the Maju Bareng AI Bersama Hacktiv8 program.
-
 ## Target Users
 
 - In-house resort guests
