@@ -37,12 +37,6 @@ This project was created by Rivo Henfri as a final project for the Maju Bareng A
 - Reduce dependency on manual front desk handling
 - Provide 24/7 self-service assistance
 
-### Operations Dashboard
-
-- Store guest and staff requests as tickets in the browser
-- Track ticket status by department
-- Generate an AI summary for active operational requests
-
 ## Value Proposition
 
 - 24/7 availability
@@ -64,8 +58,6 @@ This project was created by Rivo Henfri as a final project for the Maju Bareng A
 - Chat Interface: React web interface with guided menu flow
 - AI Engine: Gemini API for structured menu generation, guest detail parsing, request parsing, and ticket summaries
 - Knowledge Layer: Resort department and service prompts
-- Ticket Layer: Browser localStorage for prototype request tracking
-- Dashboard: Internal operations dashboard for ticket visibility
 
 ## Tech Stack
 
